@@ -8,16 +8,23 @@
 <body>
     {{ content }}
 
-    <form id="contactform" action="https://formsubmit.io/send/backfire-substance-pancreas@proton.me" method="POST">
-        <input name="_redirect" type="hidden" id="name" value="https://maartenvaniwaardengithub.github.io/van-iwaarden-elektrotechniek/">
+    <form action="https://api.web3forms.com/submit" method="POST">
+
+        <!-- Replace with your Access Key --> 
+        <input type="hidden" name="access_key" value="a0fcea1f-cf70-43e8-820c-94986510fcee">
     
-        <input name="name" type="text" id="name" placeholder="Naam">
-        <input name="email" type="email" id="email" placeholder="E-mailadres">
-        <textarea name="comment" id="comment" rows="3" placeholder="Bericht"></textarea>
+        <!-- Form Inputs. Each input must have a name="" attribute -->
+        <input type="text" name="name" required placeholder="Naam">
+        <input type="email" name="email" required placeholder="E-mail">
+        <textarea name="message" required placeholder="Bericht"></textarea>
     
-        <input name="_formsubmit_id" type="text" style="display:none">
+        <!-- Honeypot Spam Protection -->
+        <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
     
-        <input value="Submit" type="submit">
+        <!-- Custom Confirmation / Success Page -->
+        <input type="hidden" name="redirect" value="https://maartenvaniwaardengithub.github.io/van-iwaarden-elektrotechniek/">
+    
+        <button type="submit">Submit Form</button>
     </form>
 </body>
 </html>

@@ -24,6 +24,8 @@ Tip: lijstjes maak je door nieuwe alinea met streepjes ervoor: 2x enter
 
 ## Werkzaamheden
 
+![groepenkast](groepenkast_meting.jpeg)
+
 - Laadpaal
 - Groepenkast
 - Kookgroep
@@ -41,4 +43,3 @@ Tip: lijstjes maak je door nieuwe alinea met streepjes ervoor: 2x enter
 Bij Van Iwaarden Elektrotechniek betaalt u geen voorrijkosten!
 
 Bel of mail Maarten voor vragen, opmerkingen en andere zaken. We komen er samen vast uit!
-  

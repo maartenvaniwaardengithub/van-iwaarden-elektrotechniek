@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Van Iwaarden Elektrotechniek</title>
+</head>
+<body>
+    {% include home.md %}
+
+    <form id="contactform" action="https://formsubmit.io/send/m.vaniwaardenelektro@gmail.com" method="POST">
+        <input name="_redirect" type="hidden" id="name" value="https://maartenvaniwaardengithub.github.io/van-iwaarden-elektrotechniek/">
+    
+        <input name="name" type="text" id="name" placeholder="Naam">
+        <input name="email" type="email" id="email" placeholder="E-mailadres">
+        <textarea name="comment" id="comment" rows="3" placeholder="Bericht"></textarea>
+    
+        <input name="_formsubmit_id" type="text" style="display:none">
+    
+        <input value="Submit" type="submit">
+    </form>
+</body>
+</html>

@@ -2,7 +2,11 @@
 
 Van Iwaarden elektrotechniek, staat voor u klaar
 
+## Welkom
+
 Maarten van Iwaarden Elektricien in en om Eindhoven
+
+## Contactgegevens
 
 Telefoon: +31631990967
 
@@ -16,8 +20,25 @@ Activiteiten: Laadpaal installeren, groepenkast, extra groep erbij, verlichting,
 
 Tip: lijstjes maak je door nieuwe alinea met streepjes ervoor: 2x enter
 
+## Waarom Van Iwaarden Elektrotechniek?
+
+## Werkzaamheden
+
 - Laadpaal
 - Groepenkast
 - Kookgroep
 - Verlichting
+- Elektrische storingen aan hekwerk, verlichting etc. etc.
+- kabelverzwaring
+- kabels ingraven
+- Domotica
+- Beveiligingsinstallaties
+
+## Tarieven
+
+€50 incl. BTW incl voorrijkosten
+
+Bij Van Iwaarden Elektrotechniek betaalt u geen voorrijkosten!
+
+Bel of mail Maarten voor vragen, opmerkingen en andere zaken. We komen er samen vast uit!
   

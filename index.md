@@ -64,6 +64,8 @@ We komen er wel uit!
 
 Bij Van Iwaarden Elektrotechniek betaalt u geen voorrijkosten!
 
+De prijs voor een elektriciensklus is opgebouwd uit arbeidsuren en materialen, wat per klus verschillend is. Wanneer u contact opneemt, kom ik van tevoren de klus opnemen. Krijgt u een prijsindicatie.
+
 Bel of mail Maarten voor vragen, opmerkingen en andere zaken. We komen er samen vast uit!
 
 ## Kernwaardes van Iwaarden Elektrotechniek

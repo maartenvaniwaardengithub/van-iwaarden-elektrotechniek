@@ -1,0 +1,73 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Onest:wght@100..900&display=swap');
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+main {
+    flex: 2;
+    min-width: 400px;
+    padding: 20px;
+}
+
+main > div {
+    max-width: 700px;
+}
+
+#contact {
+    flex: 1;
+    min-width: 400px;
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 0;
+    align-self: flex-start;
+    height: 100dvh;
+    gap: 5px;
+    padding: 20px;
+}
+
+#contact > * {
+    background: inherit;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+}
+
+#contact > h1 {
+    border: none;
+    margin: 0;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+}
+
+#contact > textarea {
+    resize: none;
+    flex: 1;
+}

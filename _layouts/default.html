@@ -1,30 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Van Iwaarden Elektrotechniek</title>
-</head>
-<body>
-    {{ content }}
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Van Iwaarden Elektrotechniek</title>
+        <link rel="stylesheet" href="/assets/css/styles.css" />
+    </head>
+    <body>
+        <main><div>{{ content }}</div></main>
 
-    <form action="https://api.web3forms.com/submit" method="POST">
+        <form
+            id="contact"
+            action="https://api.web3forms.com/submit"
+            method="POST"
+        >
+            <h1>Stuur Maarten een bericht</h1>
 
-        <!-- Replace with your Access Key --> 
-        <input type="hidden" name="access_key" value="a0fcea1f-cf70-43e8-820c-94986510fcee">
-    
-        <!-- Form Inputs. Each input must have a name="" attribute -->
-        <input type="text" name="name" required placeholder="Naam">
-        <input type="email" name="email" required placeholder="E-mail">
-        <textarea name="message" required placeholder="Bericht"></textarea>
-    
-        <!-- Honeypot Spam Protection -->
-        <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
-    
-        <!-- Custom Confirmation / Success Page -->
-        <input type="hidden" name="redirect" value="https://maartenvaniwaardengithub.github.io/van-iwaarden-elektrotechniek/">
-    
-        <button type="submit">Submit Form</button>
-    </form>
-</body>
+            <!-- Replace with your Access Key -->
+            <input
+                type="hidden"
+                name="access_key"
+                value="a0fcea1f-cf70-43e8-820c-94986510fcee"
+            />
+
+            <!-- Form Inputs. Each input must have a name="" attribute -->
+            <input type="text" name="name" required placeholder="Naam" />
+            <input type="email" name="email" required placeholder="E-mail" />
+            <textarea name="message" required placeholder="Bericht"></textarea>
+
+            <!-- Honeypot Spam Protection -->
+            <input
+                type="checkbox"
+                name="botcheck"
+                class="hidden"
+                style="display: none"
+            />
+
+            <!-- Custom Confirmation / Success Page -->
+            <input
+                type="hidden"
+                name="redirect"
+                value="https://maartenvaniwaardengithub.github.io/van-iwaarden-elektrotechniek/"
+            />
+
+            <button type="submit">Verstuur</button>
+        </form>
+    </body>
 </html>

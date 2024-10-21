@@ -1,5 +1,7 @@
 # Van Iwaarden Elektrotechniek
 
+Hoihoi.
+
 Van Iwaarden elektrotechniek, staat voor u klaar!
 
 ## Welkom
@@ -20,9 +22,9 @@ Zoals je aan deze site ziet, ben ik praktisch, effectief en zonder te veel poesp
 
 ### Voor wat staat Van Iwaarden Elektrotechniek?
 
-1. #### Kan hij het wat hij moet doen?
+#### 1. Kan hij het wat hij moet doen?
 
-   Van mij kan je op aan, ik ben een MBO 3 gediplomeerd elektricien, VCA-vol gecertificeerd en enkele jaren ervaring. Ik houd me aan de 4 V's van Van Iwaarden Elektrotechniek:
+Van mij kan je op aan, ik ben een MBO 3 gediplomeerd elektricien, VCA-vol gecertificeerd en enkele jaren ervaring. Ik houd me aan de 4 V's van Van Iwaarden Elektrotechniek:
 
 - Veiligheid
 - Vakkundigheid
@@ -43,7 +45,7 @@ Ik doe verschillende werkzaamheden in en om het huis, op kantoren, loodsen, you 
 
 We komen er wel uit!
 
-![groepenkast](groepenkast_meting.jpeg)
+![groepenkast](/assets/groepenkast_meting.jpeg)
 
 - Laadpaal
 - Groepenkast uitbreiden/vernieuwen
@@ -84,10 +86,15 @@ Bel of mail Maarten voor vragen, opmerkingen en andere zaken. We komen er samen 
 ## Contactgegevens
 
 Maarten van Iwaarden
+
 Van Iwaarden Elektrotechniek
+
 Telefoon: +31631990967
+
 KvK-nummer: 90792491
+
 Adres: Laagstraat 439H 5654 PN  Eindhoven
+
 E-mailadres: <m.vaniwaardenelektro@gmail.com>
 
 Ben je een marketingpersoon die mensen cold called? Gelieve me lekker met rust te laten. Thx haha
